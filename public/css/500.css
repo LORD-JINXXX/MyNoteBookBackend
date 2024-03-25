@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Bitter&family=Cinzel&family=Gloria+Hallelujah&family=Josefin+Sans&family=Jost&family=Kalam:wght@300;400&family=Kanit:wght@300&family=Montserrat:wght@300;400&family=Mooli&family=Noto+Serif&family=Orbitron&family=Pacifico&family=Philosopher&family=Roboto+Slab:wght@300;400&family=Rubik+Moonrocks&family=Satisfy&family=Tangerine:wght@700&display=swap');
+
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Jost', sans-serif;
+    font-family: 'Berkshire Swash', cursive;
+    font-family: 'Bitter', serif;
+    font-family: 'Cinzel', serif;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Kalam', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mooli', sans-serif;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Philosopher', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'Satisfy', cursive;
+    font-family: 'Tangerine', cursive;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to top, black, red);
+}
+
+.container .box {
+    width: 400px;
+    height: 200px;
+    border-radius: 34px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to top, aliceblue, floralwhite, azure);
+}
+
+.container .box h1 {
+    font-family: 'Jost', sans-serif;
+    color: rgba(252, 50, 50, 0.86);
+}
