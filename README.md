@@ -26,8 +26,8 @@
 
 ## Installation
 
-### Clone this repository: git clone https://github.com/yourusername/note-app-backend.git
-### Navigate to the project directory: cd note-app-backend
+### Clone this repository: git clone https://github.com/LORD-JINXXX/MyNoteBookBackend.git
+### Navigate to the project directory: cd MyNoteBookBackend
 ### Install dependencies: npm install
 
 ## Configuration
